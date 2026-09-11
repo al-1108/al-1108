@@ -1,9 +1,20 @@
-<h1>Hello! I'm Alex</h1>
+<h1>👋 Hello! I'm Alex</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=al-1108)
+<h3 align='center'>📍 Toronto | 📖 Computer Science @ University of Waterloo</h3>
 
-<h3 align='center'>📍Toronto | </h3>
+---
 
+## ⭐️ About Me
+
+I'm a passionate developer driven by solving problems that I face in my daily life. A problem I’ve faced recently include wanting a faster way to unlike all the Instagram Reels I had previously liked, which led me to build [**instapurge**](https://github.com/al-1108/instapurge).
+
+I'm also a computer science student at the University of Waterloo. Outside of tech, I enjoy skiing ⛷️, playing softball 🥎, and watching football ⚽️
+
+---
+
+## 📫 Let's connect!
+Email: alexlu890@gmail.com
 
 <!--
 **al-1108/al-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
