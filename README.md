@@ -1,6 +1,8 @@
-## Hi there 👋
+<h1>Hello! I'm Alex</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=al-1108)
+
+<h3 align='center'>📍Toronto | </h3>
 
 
 <!--
