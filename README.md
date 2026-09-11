@@ -28,7 +28,7 @@ I'm also a computer science student at the University of Waterloo. Outside of te
 
 ---
 
-## 📫 Let's connect!
+## 📫 Contact Me
 Email: alexlu890@gmail.com
 
 ---
