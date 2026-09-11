@@ -16,6 +16,9 @@ I'm also a computer science student at the University of Waterloo. Outside of te
 ## 📫 Let's connect!
 Email: alexlu890@gmail.com
 
+---
+## 📈 Some Stats
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=al-1108&layout=compact)
 <!--
 **al-1108/al-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
