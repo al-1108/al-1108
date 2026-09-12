@@ -25,6 +25,8 @@ I'm also a computer science student at the University of Waterloo. Outside of te
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=coffeescript&logoColor=white&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
 ---
 
