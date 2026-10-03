@@ -8,7 +8,7 @@
 
 I'm a passionate developer driven by solving problems that I face in my daily life. Some problems I’ve faced recently include wanting a faster way to unlike all the Instagram Reels I had previously liked, which led me to build [**instapurge**](https://github.com/al-1108/instapurge).
 
-I'm also a computer science student at the University of Waterloo. Outside of tech, I enjoy skiing ⛷️, playing softball 🥎, and watching football ⚽️
+I'm interested in robotics, automation, and machine learning. I'm also a first year computer science student at the University of Waterloo. Outside of tech, I enjoy skiing ⛷️, playing softball 🥎, and watching football ⚽️
 
 https://alex-lu.vercel.app/
 
