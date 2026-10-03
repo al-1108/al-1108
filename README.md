@@ -10,6 +10,8 @@ I'm a passionate developer driven by solving problems that I face in my daily li
 
 I'm also a computer science student at the University of Waterloo. Outside of tech, I enjoy skiing ⛷️, playing softball 🥎, and watching football ⚽️
 
+https://alex-lu.vercel.app/
+
 ---
 ## 🛠️ Tech Stack
 
