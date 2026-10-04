@@ -1,6 +1,6 @@
 <h1>👋 Hello! I'm Alex</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=al-1108&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=al-1108)
 
 ---
 
