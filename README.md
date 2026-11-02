@@ -1,4 +1,4 @@
-<h1>👋 Hello! I'm Alex</h1>
+<!-- <h1>👋 Hello! I'm Alex</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=al-1108)
 
@@ -37,9 +37,10 @@ Email: alexlu890@gmail.com
 
 ---
 ## 📈 Stats
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=al-1108&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=al-1108&layout=compact) -->
+
 <!--
-**al-1108/al-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**al-1108/al-1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
