@@ -1,7 +1,7 @@
-<!-- <h1>👋 Hello! I'm Alex</h1>
+ <h1> hi, I'm Alex 👋</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=al-1108)
-
+<!--
 ---
 
 ## ⭐️ About Me
