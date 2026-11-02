@@ -1,12 +1,17 @@
  <h1> hi, I'm Alex 👋</h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=al-1108)
+
+I build things to solve problems I face.
+
+Some of my projects: 
+- [**instapurge**](https://github.com/al-1108/instapurge)
+- [**RentThe6ix**](https://github.com/aqeelzow/Rent-the-6ix)
 <!--
 ---
 
-## ⭐️ About Me
 
-I'm a passionate developer driven by solving problems that I face in my daily life. Some problems I’ve faced recently include wanting a faster way to unlike all the Instagram Reels I had previously liked, which led me to build [**instapurge**](https://github.com/al-1108/instapurge).
+ Some problems I’ve faced recently include wanting a faster way to unlike all the Instagram Reels I had previously liked, which led me to build [**instapurge**](https://github.com/al-1108/instapurge).
 
 I'm interested in robotics, automation, and machine learning. I'm also a first year computer science student at the University of Waterloo. Outside of tech, I enjoy skiing ⛷️, playing softball 🥎, and watching football ⚽️
 
